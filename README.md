@@ -110,6 +110,9 @@ Pergunta:
 Digite sua pergunta e o sistema responderá com base no documento.  
 
 ---
+## Exemplo:
+
+---
 
 ## 🔥 Melhorias Implementadas
 
