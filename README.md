@@ -38,22 +38,22 @@ O conhecimento é injetado dinamicamente no prompt via recuperação vetorial.
 
 ## 📂 Estrutura do Projeto
 
-rag_pdf_bot/
-│
-├── data/
-│ └── artigos.pdf
-│
-├── src/
-│ ├── app.py
-│ ├── loader.py
-│ ├── chunking.py
-│ ├── embeddings.py
-│ ├── vector_store.py
-│ └── rag_pipeline.py
-│
-├── requirements.txt
-└── README.md
-
+rag_pdf_bot/  
+│  
+├── data/  
+│ └── artigos.pdf  
+│  
+├── src/  
+│ ├── app.py  
+│ ├── loader.py  
+│ ├── chunking.py  
+│ ├── embeddings.py  
+│ ├── vector_store.py  
+│ └── rag_pipeline.py  
+│  
+├── requirements.txt  
+└── README.md  
+  
 ---
 
 ## ⚙️ Instalação
