@@ -111,7 +111,7 @@ Digite sua pergunta e o sistema responderá com base no documento.
 
 ---
 
-## Exemplo:
+## 🧪 Exemplo:
 <img title="a title" alt="Alt text" src="exemplo.jpg">
 
 ---
