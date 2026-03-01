@@ -12,11 +12,11 @@ Projeto 100% open source e executável localmente.
 ---
 
 ## 🧠 Arquitetura
-PDF → Chunking → Embeddings (BGE) → FAISS Index
-↓
-Pergunta → Embedding → Busca Vetorial
-↓
-Contexto Recuperado → LLM → Resposta
+PDF → Chunking → Embeddings (BGE) → FAISS Index  
+↓  
+Pergunta → Embedding → Busca Vetorial  
+↓  
+Contexto Recuperado → LLM → Resposta  
 
 
 O modelo **não é treinado** com o PDF.  
