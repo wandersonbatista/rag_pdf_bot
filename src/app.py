@@ -25,7 +25,7 @@ while True:
     question = input("\nPergunta: ")
 
     query_embedding = embed_query(question)
-    relevant_indices = search(index, query_embedding)
+    relevant_indices = search(index, query_embedding, k=7)
 
     context = "\n".join([chunks[i] for i in relevant_indices])
 
